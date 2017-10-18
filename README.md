@@ -4,8 +4,9 @@ A collection of keymaps for the [QMK firmware](https://github.com/qmk/qmk_firmwa
 
 Currently keyboards are
 
-* [lets split](lets_split)
-* [planck](planck)
+* [Lets Split](lets_split)
+* [Planck](planck)
+* [Ergodox Infinity](ergodox_infinity)
 
 These keymaps have common features
 
@@ -16,4 +17,4 @@ These keymaps have common features
 * mouse layer
 
 ----
-Thomas Cherry
+[Thomas Cherry](mailto:thomas.cherry@gmail.com) - 2017
